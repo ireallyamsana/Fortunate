@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/stats"
+        android:icon="@drawable/ic_baseline_equalizer_24"
+        android:title="Stats" />
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/cat"
+        android:icon="@drawable/ic_baseline_apps_24"
+        android:title="Categories" />
+
+
+
+</menu>
